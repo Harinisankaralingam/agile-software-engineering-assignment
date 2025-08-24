@@ -6,4 +6,4 @@
 ![Sequence Diagram](https://github.com/Harinisankaralingam/agile-software-engineering-assignment/blob/main/class%20%20diagram%20.png)
 
 ### 3. Class Diagram
-![Class Diagram](./images/ClassDiagram.jpg)
+![Class Diagram](https://github.com/Harinisankaralingam/agile-software-engineering-assignment/blob/main/class%20%20diagram%20.png)
